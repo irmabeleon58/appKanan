@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "127545549904",
+    "project_id": "kanan-app",
+    "storage_bucket": "kanan-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:127545549904:android:4f8cd29892089438dedd55",
+        "android_client_info": {
+          "package_name": "com.example.appkanan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "127545549904-edo0sag4ngpt56tr7teeskafr205h3f1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.appkanan",
+            "certificate_hash": "832831f791fe951f42c3f907bde0e402fb883299"
+          }
+        },
+        {
+          "client_id": "127545549904-pcueuquomvbfp0j5j43r8gm2iuqfv1va.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2CDCClbzm-TSK4rNEoI1cFFyf-8AEfuE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "127545549904-pcueuquomvbfp0j5j43r8gm2iuqfv1va.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
